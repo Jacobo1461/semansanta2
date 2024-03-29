@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.playfair-display-uniquifier {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+.container{
+
+    margin-top: 200px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10vh;
+    margin-left: 4vh;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+    border-radius: 5%;
+}
+#exampleModalLabel{
+    color: black;
+}
+.mb-3{
+    color: black;
+}
